@@ -1,4 +1,2 @@
-# Spring Boot Using Spring Data MongoDB Example
 
-This project depicts the Spring Boot Example with Spring Data MongoDB and REST Example.
-
+此项目是一个boot项目中集成spring-data-mongodb的demo项目，其中还添加了一个使用原生mongo驱动包来操作数据库的类
